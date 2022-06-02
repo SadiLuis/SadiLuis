@@ -7,7 +7,7 @@
 
 - tambien puedes visitar mi perfil de [LinkedIn](https://www.linkedin.com/in/sadi-luis-alberto-rueda-fullstack/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://portfolio-sadi.netlify.app/ </h3>
 <p align="left">
 </p>
 
