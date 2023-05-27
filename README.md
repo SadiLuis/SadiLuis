@@ -1,13 +1,12 @@
 <h1 align="center">Hola 👋, soy Sadi Luis</h1>
 <h3 align="center">Soy un apasionado FullStack Developer de Argentina</h3>
 
-- 🔭Actualmente estoy trabajando en un **Proyecto e-commerce**
+- Soy un Director de Tecnología (CTO) con experiencia en desarrollo Full Stack y un enfoque especializado en Front-end. Con casi 2 años de experiencia profesional en el sector, he trabajado con tecnologías como React.js, Node.js y Firebase, entre otras. Mi pasión por la tecnología me ha llevado a asumir responsabilidades desafiantes y a liderar proyectos en mi actual posición en Cool
 
-- los repositorios en mi Github son academicos **desarrollado en el Bootcamps SoyHenry**
 
 - tambien puedes visitar mi perfil de [LinkedIn](https://www.linkedin.com/in/sadi-luis-alberto-rueda-fullstack/)
 
-<h3 align="left">Connect with me: https://portfolio-sadi.netlify.app/ </h3>
+<h3 align="left">Connect with me: https://sadi-rueda-dev.netlify.app/ </h3>
 <p align="left">
 </p>
 
