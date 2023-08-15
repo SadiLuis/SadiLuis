@@ -1,7 +1,22 @@
 <h1 align="center">Hola 👋, soy Sadi Luis</h1>
-<h3 align="center">Soy un apasionado FullStack Developer de Argentina</h3>
+<h2> -🚀 Sobre Mí: </h2>
+Apasionado Ingeniero Front-end con un historial de liderazgo en equipos y creación de soluciones tecnológicas innovadoras. Me motiva la innovación y el aprendizaje constante. Experto en tecnologías clave como React.js, Redux-Toolkit, Node.js y MongoDB entre otras. Defensor firme de la comunicación efectiva y el trabajo en equipo colaborativo.
 
-- Soy un Director de Tecnología (CTO) con experiencia en desarrollo Full Stack y un enfoque especializado en Front-end. Con casi 2 años de experiencia profesional en el sector, he trabajado con tecnologías como React.js, Node.js y Firebase, entre otras. Mi pasión por la tecnología me ha llevado a asumir responsabilidades desafiantes y a liderar proyectos en mi actual posición en Cool
+
+💡 Logro Destacado:
+Lideré un equipo de desarrolladores en Cool, entregando un MVP innovador al tomar decisiones estratégicas sobre tecnologías y liderazgo, todo mientras cultivaba un entorno de trabajo positivo y enriquecedor.
+
+🎓 Educación:
+
+Licenciatura en Ingeniería Informática (incompleta) - Universidad Nacional del Litoral (UNL)
+Bootcamp de Desarrollo Web Full Stack completado - Soy Henry
+🛠️ Habilidades Clave:
+
+Desarrollo Web Full Stack: React.js | Redux-Toolkit | Node.js | MongoDB | Typescript
+Comunicación Efectiva | Empatía | Colaboración en Equipos
+
+🎯 Objetivo:
+Continuar creciendo como profesional en el campo tecnológico, contribuyendo al éxito de proyectos desafiantes y colaborando con equipos multidisciplinarios.
 
 
 - tambien puedes visitar mi perfil de [LinkedIn](https://www.linkedin.com/in/sadi-luis-alberto-rueda-fullstack/)
