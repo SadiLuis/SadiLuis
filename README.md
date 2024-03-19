@@ -1,19 +1,17 @@
 <h1 align="center">Hola 👋, soy Sadi Luis</h1>
-<h2> -🚀 Sobre Mí: </h2>
-Apasionado Ingeniero Front-end con un historial de liderazgo en equipos y creación de soluciones tecnológicas innovadoras. Me motiva la innovación y el aprendizaje constante. Experto en tecnologías clave como React.js, Redux-Toolkit, Node.js y MongoDB entre otras. Defensor firme de la comunicación efectiva y el trabajo en equipo colaborativo.
+🚀 Sobre Mí:
+Apasionado FullStack developer con fuerte focus hacia el Frontend, más de 3 años de experiencia profesional. Me motiva la innovación y el aprendizaje constante, me apasiona el diseño de soluciones creativas y atractivas para los usuarios. Experto en tecnologías clave como React.js, TailwindCss, Typescript y MongoDB entre otras. Defensor firme de la comunicación efectiva y el trabajo en equipo colaborativo.
 
 
 💡 Logro Destacado:
 Lideré un equipo de desarrolladores en Cool, entregando un MVP innovador al tomar decisiones estratégicas sobre tecnologías y liderazgo, todo mientras cultivaba un entorno de trabajo positivo y enriquecedor.
 
 🎓 Educación:
-
 Licenciatura en Ingeniería Informática (incompleta) - Universidad Nacional del Litoral (UNL)
 Bootcamp de Desarrollo Web Full Stack completado - Soy Henry
-🛠️ Habilidades Clave:
 
-Desarrollo Web Full Stack: React.js | Redux-Toolkit | Node.js | MongoDB | Typescript
-Comunicación Efectiva | Empatía | Colaboración en Equipos
+🛠️ Habilidades Clave:
+Comunicación Efectiva | Empatía | Colaboración en Equipos | Responsabilidad | Liderazgo
 
 🎯 Objetivo:
 Continuar creciendo como profesional en el campo tecnológico, contribuyendo al éxito de proyectos desafiantes y colaborando con equipos multidisciplinarios.
@@ -21,7 +19,7 @@ Continuar creciendo como profesional en el campo tecnológico, contribuyendo al 
 
 - tambien puedes visitar mi perfil de [LinkedIn](https://www.linkedin.com/in/sadi-luis-alberto-rueda-fullstack/)
 
-<h3 align="left">Connect with me: https://sadi-rueda-dev.netlify.app/ </h3>
+<h3 align="left">Connect with me: https://sadirueda-fullstack.netlify.app/ </h3>
 <p align="left">
 </p>
 
